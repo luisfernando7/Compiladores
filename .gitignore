@@ -1,3 +1,9 @@
+/JavaApp/build/
+/HTML5Application/nbproject/private/
+/HTML5AppLearning/nbproject/private/
+/Compiladores/nbproject/private/
+/Compiladores/build/
+
 *.class
 
 # Mobile Tools for Java (J2ME)
